@@ -1,0 +1,4 @@
+{
+    "strict":         true,
+    "globals": { "angular": true }
+}
